@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧮 GST Calculator
+# 🧮 GST Calc Pro
 
 **The ultimate offline tax & business calculator.**
 
@@ -14,7 +14,7 @@ Calculate GST, manage product prices, and convert currencies – easier than eve
 
 ## Download
 
-<a href="GST-Calculator.apk">
+<a href="https://github.com/anmol2point0/GST-Calculator/releases/latest">
   <img src="https://img.shields.io/badge/Stable-v1.0.0-0A66C2?style=for-the-badge" alt="Download Stable" />
 </a>
 
@@ -27,7 +27,7 @@ Calculate GST, manage product prices, and convert currencies – easier than eve
 ### Features
 
 * **Live GST Calculation:** Apply or reverse GST instantly with dedicated percentage buttons.
-* **Custom Price Book:** Save your products (like Sealant or Tape) and add them to calculations with a single tap.
+* **Custom Price Book:** Save your products and add them to calculations with a single tap.
 * **Currency Converter:** Real-time and offline exchange rates for global markets.
 * **Multi-User Sessions:** Keep track of up to 3 separate calculations at once without losing your place.
 * **Light and dark themes:** Automatically matches your phone's system preference.
