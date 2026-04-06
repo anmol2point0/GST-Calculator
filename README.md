@@ -13,7 +13,7 @@
 <br>
 
 ### 🚀 Latest Release
-[![Stable](https://img.shields.io/badge/Download-v1.5.0-FF375F?style=for-the-badge&logo=android)](https://github.com/anmol2point0/GST-Calculator/releases/latest)
+[![Stable](https://img.shields.io/badge/Download-v1.2.0-FF375F?style=for-the-badge&logo=android)](https://github.com/anmol2point0/GST-Calculator/releases/latest)
 
 *Requires Android 8.0+*
 
