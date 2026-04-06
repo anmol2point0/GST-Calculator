@@ -13,7 +13,7 @@
 <br>
 
 ### 🚀 Latest Release
-[![Stable](https://img.shields.io/badge/Download-v1.2.0-FF375F?style=for-the-badge&logo=android)](https://github.com/anmol2point0/GST-Calculator/releases/latest)
+[![Stable](https://img.shields.io/badge/Download-v1.2.1.0-FF375F?style=for-the-badge&logo=android)](https://github.com/anmol2point0/GST-Calculator/releases/latest)
 
 *Requires Android 8.0+*
 
@@ -23,7 +23,7 @@
 
 ## ✨ Key Features
 
-* 🧮 **Advanced Math & GST Engine:** Evaluate complex expressions (e.g., `100 + 50 * 2`) and instantly apply or reverse standard GST slabs (3%, 5%, 12%, 18%, 28%) with a single tap.
+* 🧮 **Advanced Math & GST Engine:** Evaluate complex expressions (e.g., `100 + 50 * 2`) and instantly apply or reverse standard GST slabs (6%, 9%, 12%, 18%, 28%) with a single tap.
 * 💱 **Live Currency & Global Markets:** Real-time exchange rates with intelligent offline fallback. Features a beautiful **Global Markets** dashboard tracking live times and open/close statuses for Mumbai, New York, London, Dubai, and Tokyo.
 * 📦 **Smart Price Book:** Build your personal inventory. Tap to instantly send prices to the calculator. Features native multi-select for bulk deletion, plus full **CSV Import & Export** capabilities.
 * 👤 **Multi-User Sessions:** Juggle up to three different calculations at once using color-coded profile tabs. Never lose your place.
@@ -32,7 +32,7 @@
 
 ---
 
-## 🌍 The Global Update (v1.2.0)
+## 🌍 The Global Update (v1.2.1.0)
 
 **What's new in the latest version:**
 
